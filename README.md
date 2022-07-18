@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dmitriy Popov-Velasco and I live in the US permanently
 - 👀 I’m interested in Python and data science
 - 🌱 I’m currently working on Python and ML projects
-- 💞️ I’m looking to collaborate on data science projects in recycling, energy, education, and anything related to helping the Earth
+- 💞️ I’m looking to collaborate on data science projects in business, energy, education, and anything related to helping the Earth
 - 📫 You can reach me through
 - <div id="badges">
   <a href="https://www.linkedin.com/in/dmitriy-popov-velasco-1579361a3/">
