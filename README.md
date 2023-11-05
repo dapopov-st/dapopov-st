@@ -2,8 +2,7 @@
 - 👀 I’m interested in Python, data science, computer vision, NLP, diffusion models, and high-performance computing
 - 🌱 I’m currently working on Python and NLP projects
 - 💞️ I love building stuff and I’m looking to collaborate on data science projects in business, energy, education, and anything related to helping the Earth
-- 📫 You can reach me through
-- <div id="badges">
+- 📫 You can reach me through  <div id="badges">
   <a href="https://www.linkedin.com/in/dmitriy-popov-velasco-1579361a3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
