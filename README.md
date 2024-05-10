@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmitriy Popov-Velasco and I live in the US permanently
-- 👀 My technical interests include Python, data science, computer vision, NLP, diffusion models, and high-performance computing
+- 👀 My current technical interests include NLP (mostly LLMs) and Python
 - 🌱 I’m currently working on Python and NLP projects
 - 📫 You can reach me through  <div id="badges">
   <a href="https://www.linkedin.com/in/dmitriy-popov-velasco-1579361a3/">
